@@ -1,0 +1,48 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+struct node{
+   int data;
+   struct node *next;
+};
+
+void reverse(struct node *head)
+{
+   struct node *x;
+   x=head;
+   if(x==NULL)
+   return;
+   reverse(x->next);
+   cout<<x->data<<" ";
+
+}
+
+int main()
+{
+   int x=1;
+   struct node *head=NULL,*newnode,*temp;
+   while(x==1)
+   {
+   newnode=(struct node *)malloc(sizeof(struct node));
+   cout<<"enter data";
+   cin>>newnode->data;
+   newnode->next=0;
+
+   if(head==0)
+   {
+      head=temp=newnode;
+   }
+   else
+   {
+      temp->next=newnode;
+      temp=newnode;
+   }
+  cout<<"do you want to enter one more:(0/1)";
+  cin>>x;
+   }
+temp=head;
+
+reverse(head);
+
+return 0;
+}
