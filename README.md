@@ -5,6 +5,8 @@
 450 DSA Cracker helps you build your confidence in solving any coding
 related question and helps you prepare for your placements 👨🏻‍🎓
 
+<div align="left">   
+   
 # Disclaimer
 
 solution are shared just for the purpose to help beginner, **to revise** and not for credits ✌.
