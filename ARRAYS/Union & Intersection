@@ -1,5 +1,4 @@
-INTERSECTION
-============
+//INTERSECTION
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -37,9 +36,7 @@ int main()
 
 
 
-UNION
-=====
-
+//UNION
 #include<bits/stdc++.h>
 using namespace std;
 
