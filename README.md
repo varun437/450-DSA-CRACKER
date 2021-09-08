@@ -9,7 +9,7 @@ related question and helps you prepare for your placements 👨🏻‍🎓
    
 # Disclaimer
 
-solution are shared just for the purpose to help beginner, **to revise** and not for credits ✌.
+-  Solutions are shared just for the purpose to help beginner, **to revise** and not for credits ✌.
 
 # Note
 
