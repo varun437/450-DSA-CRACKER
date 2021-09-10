@@ -28,7 +28,6 @@ Here I will list all resource credits
 
 -  <a href="https://www.geeksforgeeks.org/">geeks for geeks</a>
 -  <a href="https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw">Love Babbar</a>
--  <a href="https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ">Aditya Verma</a>
 -  <a href="https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw">Pepcoding</a>
 -  <a href="https://www.youtube.com/channel/UC__WEiLwRXmgTHZQ4hYAk_w">Code Library</a>
 -  <a href="https://leetcode.com/">Leetcode</a>
