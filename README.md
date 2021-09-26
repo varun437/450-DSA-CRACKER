@@ -6,10 +6,6 @@
 related question and helps you prepare for your placements 👨🏻‍🎓
 
 <div align="left">   
-   
-# Disclaimer
-
--  Solutions are shared just for the purpose to help beginner, **to revise** and not for credits ✌.
 
 # Note
 
