@@ -12,7 +12,7 @@ void remove(struct node *head,struct node *slow)
    node *s,*f;
    s=slow;
    f=head;
-   while(s!=f)
+   while(s->next!=f->next)
    {
       s=s->next;
       f=f->next;
